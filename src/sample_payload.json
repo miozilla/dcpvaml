@@ -1,0 +1,9 @@
+{
+    "instances": [{
+      "content": "GDyoooCa780Z_<replace_your_base64_in_this_content_str>_ooohAkY9FbmgiQookPZ"
+    }],
+    "parameters": {
+      "confidenceThreshold": 0.5,
+      "maxPredictions": 5
+    }
+}
